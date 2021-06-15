@@ -1,0 +1,1 @@
+# AzureML_ManagedIdentity_Sample
